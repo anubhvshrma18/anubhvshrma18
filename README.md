@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Anubhav Sharma
 - 🔭 I’m currently working as Contributor in Contribution Hack'20
-- 📫 How to reach me: 
-       [![Anubhav Sharma][1.1][1] 
+- 📫 How to reach me: [![Anubhav][1.1]][1] 
 
 [1]: http://www.twitter.com/anubhvshrma18
 [1.1] : http://i.imgur.com/tXSoThF.png
