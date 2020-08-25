@@ -1,9 +1,12 @@
 ### Hi there 👋 I'm Anubhav Sharma
 - 🔭 I’m currently working as Contributor in Contribution Hack'20
 - 📫 How to reach me: 
-       [![Anubhav Sharma](http://i.imgur.com/tXSoThF.png)[1] LinkedIn - [Anubhav Sharma](http://www.linkedin.com/in/anubhvshrma18)
+       [![Anubhav Sharma][1.1][1] 
 
 [1]: http://www.twitter.com/anubhvshrma18
+[1.1] : http://i.imgur.com/tXSoThF.png
+[2] : http://www.linkedin.com/in/anubhvshrma18
+[2.2] :
 <!--
 **anubhvshrma18/anubhvshrma18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
