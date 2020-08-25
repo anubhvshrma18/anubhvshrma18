@@ -2,7 +2,7 @@
 - 🔭 I’m currently working as Contributor in Contribution Hack'20
 - 📫 How to reach me: Twitter-[anubhvshrma18](http://i.imgur.com/tXSoThF.png)[1] LinkedIn - [Anubhav Sharma](http://www.linkedin.com/in/anubhvshrma18)
 
-[1]:(http://www.twitter.com/anubhvshrma18)
+[1]: http://www.twitter.com/anubhvshrma18
 <!--
 **anubhvshrma18/anubhvshrma18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
