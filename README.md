@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Anubhav Sharma
-- 🔭 I’m currently working as Web Developer of [DSC ADGITM](https://dsc-adgitm.web.app/)
+- 🔭 I’m currently a Web Developer.
 <!-- display the social media buttons in your README -->
 ### Contact Me through below -
 
