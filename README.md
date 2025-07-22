@@ -1,44 +1,60 @@
 ### Hi there 👋 I'm Anubhav Sharma
-- 🔭 I’m a Software Engineer with more than 2 Years of Experience.
-<!-- display the social media buttons in your README -->
-### Contact Me through below -
 
-[![alt text][1.1]][1]
-[![alt text][6.1]][6]
+![Profile Views](https://komarev.com/ghpvc/?username=anubhvshrma18&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/anubhvshrma18?label=Followers&style=social)
+![Languages Used](https://img.shields.io/github/languages/top/anubhvshrma18/PepCoding-Solutions)
 
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
+---
 
-<!-- icons with padding -->
+## 👨‍💻 About Me
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+I'm a **Software Engineer** with over **3 years of hands-on experience** in backend development using **Java**, **Python**, **Spring Boot**, **AWS**, **DynamoDB**, **MongoDb**, **Redis**, etc. I specialize in building scalable, distributed systems using **microservice architectures**, and I thrive on designing efficient and robust backend systems.
 
-<!-- icons without padding -->
-<!--
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
--->
+## 🧰 Tech Stack & Expertise
 
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
+**Languages & Frameworks:**
+- C++, Python, Java 17, Spring Boot, JavaScript
 
-[1]: http://www.twitter.com/anubhvshrma18
-[6]: http://www.github.com/anubhvshrma18
+**Databases:**
+- MongoDB, PostgreSQL, DynamoDB
+
+**Messaging & Caching:**
+- Kafka, Redis, AWS SQS
+
+**Architecture:**
+- Microservices, REST APIs, Event-driven systems
+
+**DevOps & Cloud:**
+- AWS (EC2, SQS, S3), Docker
+
+## 🔧 Tools & Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+| 📊 GitHub Analytics | 🛠️ Most Used Languages |
+|---------------------|-------------------------|
+| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhvshrma18&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhvshrma18&layout=compact&theme=github_dark) |
+
+---
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
+## 📫 Let's Connect
 
-![](https://komarev.com/ghpvc/?username=anubhvshrma18&color=green&style=flat)
+- [LinkedIn](https://www.linkedin.com/in/h-g/)
+- [Email](mailto:in.guptahimanshu@gmail.com)
+
+---
+
+⭐️ *Thanks for visiting my GitHub! Feel free to check out my repositories and contributions.*  
