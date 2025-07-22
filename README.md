@@ -52,8 +52,8 @@ I'm a **Software Engineer** with over **3 years of hands-on experience** in back
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/h-g/)
-- [Email](mailto:in.guptahimanshu@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/anubhvshrma18/)
+- [Email](mailto:in.anubhvshrma18@gmail.com)
 
 ---
 
